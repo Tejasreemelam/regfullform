@@ -1,0 +1,27 @@
+
+label{
+    display:block;
+    padding: 10px;
+}
+
+ form{
+      text-align: center;
+      margin:0px 500px 0px 500px;
+      background-image: url("demo/regestration/img8.jpeg");
+      background-color:floralwhite;
+      font-size: xx-large;
+      font-style:italic;
+    }
+#submit{
+    padding: 10px;
+}
+input[type=submit]
+{
+   
+    background-color:darksalmon;
+}
+input[type=submit]:hover
+{
+
+    background-color:cornflowerblue;
+}
